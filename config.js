@@ -36,15 +36,16 @@ const CONFIG = {
 
   // ─── Skills ─────────────────────────────────────────────────
   skills: [
-    { name: "Precision Motion Control", level: 95, icon: "🎯" },
-    { name: "Python / MATLAB Automation", level: 93, icon: "🐍" },
-    { name: "Robotics (ROS / SLAM)", level: 90, icon: "🤖" },
-    { name: "System Architecture", level: 92, icon: "🧩" },
-    { name: "High‑G Testing & Calibration", level: 88, icon: "📈" },
-    { name: "Siemens NX / SolidWorks", level: 85, icon: "📐" },
-    { name: "Data Analysis / Diagnostics", level: 90, icon: "📊" },
-    { name: "CNC / 3D Printing / Electronics", level: 80, icon: "⚙️" }
+    { name: "Precision Motion Control", icon: "🎯" },
+    { name: "Python / MATLAB Automation", icon: "🐍" },
+    { name: "Robotics (ROS / SLAM)", icon: "🤖" },
+    { name: "System Architecture", icon: "🧩" },
+    { name: "High‑G Testing & Calibration", icon: "📈" },
+    { name: "Siemens NX / SolidWorks", icon: "📐" },
+    { name: "Data Analysis / Diagnostics", icon: "📊" },
+    { name: "CNC / 3D Printing / Electronics", icon: "⚙️" }
   ],
+
 
   // ─── Projects ───────────────────────────────────────────────
   projects: [
