@@ -57,7 +57,7 @@ const CONFIG = {
       title: "Robotic Strong Arm",
       description: "Built high‑precision calibration workflows for 6‑DOF systems operating under extreme acceleration environments.",
       tech: [""],
-      liveUrl: "#",
+      liveUrl: "",
       githubUrl: "",
       image: "assets/Images/photostrongarm.png",
       featured: false,
@@ -67,7 +67,7 @@ const CONFIG = {
       title: "Robotic 6DOF Precision Arm",
       description: "Led development of a 6‑DOF precision manipulator and 4‑DOF robotic arm with ROS‑based localization and control.",
       tech: [""],
-      liveUrl: "#",
+      liveUrl: "",
       githubUrl: "",
       image: "assets/Images/photoprecisionarm.png",
       featured: false,
@@ -86,10 +86,20 @@ const CONFIG = {
     {
       title: "Autonomous Mobile Robots (SLAM)",
       description: "Filed patent for a software‑based monitoring system enabling early detection of hardware wear and software failures.",
-      tech: ["Python", "Diagnostics", "System Monitoring"],
-      liveUrl: "#",
-      githubUrl: "#",
+      tech: [""],
+      liveUrl: "",
+      githubUrl: "",
       image: "",
+      featured: false,
+      category: "automation"
+    },
+    {
+      title: "VEX Robotics",
+      description: "Filed patent for a software‑based monitoring system enabling early detection of hardware wear and software failures.",
+      tech: [""],
+      liveUrl: "#ssets/videos/videoVEX.mp4",
+      githubUrl: "",
+      image: "assets/videos/videoVEX.mp4",
       featured: false,
       category: "automation"
     }
