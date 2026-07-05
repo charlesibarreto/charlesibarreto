@@ -40,7 +40,7 @@ const CONFIG = {
       description: "Architected autonomous subsystems and robotics control algorithms for next‑gen EUV platforms, improving 6‑DOF system performance under 13G–21G conditions.",
       tech: ["ASML"],
       liveUrl: "https://www.youtube.com/watch?v=4K5V_xLsEQ4",
-      githubUrl: "#",
+      githubUrl: "",
       image: "assets/Images/photoEUV.jpg",
       category: "robotics"
     },
@@ -49,7 +49,7 @@ const CONFIG = {
       description: "Developed Python/MATLAB automation tools reducing analysis time by ~96% and enabling $3M+ annual reliability improvements.",
       tech: ["ASML"],
       liveUrl: "https://www.youtube.com/watch?v=MiUHjLxm3V0&t=1319s",
-      githubUrl: "#",
+      githubUrl: "",
       image: "assets/Images/photoDUV.png",
       category: "automation"
     },
@@ -58,7 +58,7 @@ const CONFIG = {
       description: "Built high‑precision calibration workflows for 6‑DOF systems operating under extreme acceleration environments.",
       tech: [""],
       liveUrl: "#",
-      githubUrl: "#",
+      githubUrl: "",
       image: "assets/Images/photostrongarm.png",
       featured: false,
       category: "robotics"
@@ -68,18 +68,18 @@ const CONFIG = {
       description: "Led development of a 6‑DOF precision manipulator and 4‑DOF robotic arm with ROS‑based localization and control.",
       tech: [""],
       liveUrl: "#",
-      githubUrl: "#",
+      githubUrl: "",
       image: "assets/Images/photoprecisionarm.png",
       featured: false,
       category: "robotics"
     },
     {
-      title: "Reticle Handling Prototype",
+      title: "Cube Craze Robot",
       description: "Designed and validated reticle handling systems using Siemens NX and MATLAB, improving reliability and throughput.",
-      tech: ["NX", "MATLAB", "Mechanical Design"],
-      liveUrl: "#",
-      githubUrl: "#",
-      image: "",
+      tech: [""],
+      liveUrl: "https://www.linkedin.com/posts/earlier-this-week-asml-wilton-employees-share-7004172295954931712-NNMd/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOy5OkBsV2fSatr2glKyxd3cxfJhYByUl4",
+      githubUrl: "",
+      image: "assets/Images/photocubecraze.jpg",
       featured: false,
       category: "mechanical"
     },
