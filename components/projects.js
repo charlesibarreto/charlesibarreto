@@ -130,8 +130,7 @@ const Projects = {
           ${project.tech.map(t => `<span>${t}</span>`).join('')}
         </div>
         <div class="modal__links">
-          ${project.liveUrl ? `<a href="${project.liveUrl}" class="btn btn--primary" target="_blank" rel="noopener"><span>Live Demo</span></a>` : ''}
-          ${project.githubUrl ? `<a href="${project.githubUrl}" class="btn btn--ghost" target="_blank" rel="noopener"><span>View Code</span></a>` : ''}
+          ${project.liveUrl ? `<a href="${project.liveUrl}" class="btn btn--primary" target="_blank" rel="noopener"><span>Link</span></a>` : ''}
         </div>
       `;
 
