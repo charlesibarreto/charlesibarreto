@@ -38,7 +38,7 @@ const CONFIG = {
     {
       title: "Extreme Ultra-Violet Lithography machine (5 to 15nm)",
       description: "Architected autonomous subsystems and robotics control algorithms for next‑gen EUV platforms, improving 6‑DOF system performance under 13G–21G conditions.",
-      tech: [""],
+      tech: ["ASML"],
       liveUrl: "https://www.youtube.com/watch?v=4K5V_xLsEQ4",
       githubUrl: "#",
       image: "",
@@ -47,7 +47,7 @@ const CONFIG = {
     {
       title: "Deep Ultra-Violet Lithography (248nm)",
       description: "Developed Python/MATLAB automation tools reducing analysis time by ~96% and enabling $3M+ annual reliability improvements.",
-      tech: [""],
+      tech: ["ASML"],
       liveUrl: "https://www.youtube.com/watch?v=MiUHjLxm3V0&t=1319s",
       githubUrl: "#",
       image: "",
