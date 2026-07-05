@@ -125,12 +125,7 @@ const Projects = {
           </svg>
         </button>
         <h3 class="modal__title">${project.title}</h3>
-        ${project.video
-          ? `<iframe class="modal__video"
-                    src="${project.video}"
-                    frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allow
+        <p class="modal__description">${project.description}</p>
         <div class="modal__tech">
           ${project.tech.map(t => `<span>${t}</span>`).join('')}
         </div>
