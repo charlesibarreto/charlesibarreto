@@ -37,7 +37,7 @@ const CONFIG = {
   projects: [
     {
       title: "Extreme Ultra-Violet Lithography (5 to 15nm)",
-      description: "Architected autonomous subsystems and robotics control algorithms for next‑gen EUV platforms, improving 6‑DOF system performance under 13G–21G conditions.",
+      description: "Developed autonomous robotics subsystems and high‑precision control algorithms for next‑generation EUV platforms, improving 6‑DOF motion stability under extreme 13G–21G dynamic loads.",
       tech: ["ASML"],
       liveUrl: "https://www.youtube.com/watch?v=4K5V_xLsEQ4",
       githubUrl: "",
@@ -46,7 +46,7 @@ const CONFIG = {
     },
     {
       title: "Deep Ultra-Violet Lithography (248nm)",
-      description: "Developed Python/MATLAB automation tools reducing analysis time by ~96% and enabling $3M+ annual reliability improvements.",
+      description: "Built Python/MATLAB automation pipelines that reduced analysis time by ~96% and enabled over $3M in annual reliability improvements across DUV manufacturing operations.",
       tech: ["ASML"],
       liveUrl: "https://www.youtube.com/watch?v=MiUHjLxm3V0&t=1319s",
       githubUrl: "",
@@ -55,7 +55,7 @@ const CONFIG = {
     },
     {
       title: "Robotic Strong Arm",
-      description: "Built high‑precision calibration workflows for 6‑DOF systems operating under extreme acceleration environments.",
+      description: "Engineered high‑accuracy calibration workflows for 6‑DOF robotic systems operating under extreme acceleration, ensuring repeatable precision and robust diagnostics.",
       tech: [""],
       liveUrl: "",
       githubUrl: "",
@@ -65,7 +65,7 @@ const CONFIG = {
     },
     {
       title: "Robotic 6DOF Precision Arm",
-      description: "Led development of a 6‑DOF precision manipulator and 4‑DOF robotic arm with ROS‑based localization and control.",
+      description: "Designed and implemented a 6‑DOF precision manipulator and 4‑DOF robotic arm with ROS‑based localization, kinematics, and closed‑loop control.",
       tech: [""],
       liveUrl: "",
       githubUrl: "",
@@ -75,7 +75,7 @@ const CONFIG = {
     },
     {
       title: "Cube Craze Robot",
-      description: "Designed and validated reticle handling systems using Siemens NX and MATLAB, improving reliability and throughput.",
+      description: "Developed a high‑speed robotic system capable of autonomous cube manipulation, integrating mechanical design, embedded control, and reliability‑focused validation.",
       tech: [""],
       liveUrl: "https://www.linkedin.com/posts/earlier-this-week-asml-wilton-employees-share-7004172295954931712-NNMd/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOy5OkBsV2fSatr2glKyxd3cxfJhYByUl4",
       githubUrl: "",
@@ -85,7 +85,7 @@ const CONFIG = {
     },
     {
       title: "Autonomous Mobile Robots (SLAM)",
-      description: "Filed patent for a software‑based monitoring system enabling early detection of hardware wear and software failures.",
+      description: "Implemented SLAM‑based navigation for autonomous mobile robots, integrating mapping, localization, and obstacle‑aware path planning for dynamic environments.",
       tech: [""],
       liveUrl: "",
       githubUrl: "",
@@ -94,8 +94,18 @@ const CONFIG = {
       category: "automation"
     },
     {
+      title: "Aerodynamic Glider",
+      description: "Conceptual aerodynamic glider design exploring lightweight structures, stability, and passive flight dynamics.",
+      tech: [""],
+      liveUrl: "",
+      githubUrl: "",
+      image: "",
+      featured: false,
+      category: "Mechanical"
+    },
+    {
       title: "VEX Robotics",
-      description: "Filed patent for a software‑based monitoring system enabling early detection of hardware wear and software failures.",
+      description: "Built competitive VEX robots focused on autonomous routines, high‑speed actuation, and reliable match‑ready mechanisms.",
       tech: [""],
       liveUrl: "",
       githubUrl: "",
@@ -104,6 +114,7 @@ const CONFIG = {
       category: "automation"
     }
   ],
+
 
   // ─── Skills ─────────────────────────────────────────────────
   skills: 
