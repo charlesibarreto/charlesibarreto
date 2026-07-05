@@ -1255,18 +1255,17 @@ body.custom-cursor .cursor {
 }
 
 .contact__social-item {
-  width: 44px;
-  height: 44px;
   display: flex;
   align-items: center;
-  justify-content: center;
-  border-radius: 50%;
-  background: var(--glass-bg);
-  border: 1px solid var(--glass-border);
-  color: var(--text-secondary);
-  font-size: 1.1rem;
-  transition: all var(--duration-fast) var(--ease-out);
+  gap: 0.5rem; /* space between icon + label */
+  padding: 0 1rem; /* widen bubble for text */
 }
+
+.contact__label {
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+}
+
 
 .contact__social-item:hover {
   color: #fff;
