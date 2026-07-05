@@ -23,7 +23,7 @@ const CONFIG = {
       "Delivered multi‑million‑dollar reliability improvements across ASML EUV and DUV platforms through automation, diagnostics, and system‑level optimization."
     ],
     resumeUrl: "",
-    avatarUrl: "assets/Images/profile2.jpg"
+    avatarUrl: "assets/Images/profile.jpg"
   },
 
   // ─── Social Links ───────────────────────────────────────────
@@ -36,7 +36,7 @@ const CONFIG = {
   // ─── Projects ───────────────────────────────────────────────
   projects: [
     {
-      title: "Extreme Ultra-Violet Lithography machine (5 to 15nm)",
+      title: "Extreme Ultra-Violet Lithography (5 to 15nm)",
       description: "Architected autonomous subsystems and robotics control algorithms for next‑gen EUV platforms, improving 6‑DOF system performance under 13G–21G conditions.",
       tech: ["ASML"],
       liveUrl: "https://www.youtube.com/watch?v=4K5V_xLsEQ4",
