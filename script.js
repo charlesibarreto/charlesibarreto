@@ -18,6 +18,7 @@ const App = {
     Projects.init();
     Contact.init();
     Footer.init();
+    Publications.init();
 
     // 3. Render About section
     this.renderAbout();
