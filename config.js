@@ -99,7 +99,7 @@ const CONFIG = {
       tech: [""],
       liveUrl: "",
       githubUrl: "",
-      image: "",
+      image: "assets/Images/gifAERO.gif",
       featured: false,
       category: "Mechanical"
     },
