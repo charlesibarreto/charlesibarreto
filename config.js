@@ -69,7 +69,7 @@ const CONFIG = {
       tech: [""],
       liveUrl: "",
       githubUrl: "",
-      image: "assets/Images/photoprecisionarm.png",
+      image: "assets/Images/photoprecisionarm.jpg",
       featured: false,
       category: "robotics"
     },
