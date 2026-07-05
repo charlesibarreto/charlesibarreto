@@ -97,9 +97,9 @@ const CONFIG = {
       title: "VEX Robotics",
       description: "Filed patent for a software‑based monitoring system enabling early detection of hardware wear and software failures.",
       tech: [""],
-      liveUrl: "#ssets/videos/videoVEX.mp4",
+      liveUrl: "",
       githubUrl: "",
-      image: "assets/videos/videoVEX.mp4",
+      image: "",
       featured: false,
       category: "automation"
     }
