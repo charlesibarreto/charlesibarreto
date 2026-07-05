@@ -84,7 +84,7 @@ const CONFIG = {
       category: "mechanical"
     },
     {
-      title: "Predictive Failure Detection System",
+      title: "Autonomous Mobile Robots (SLAM)",
       description: "Filed patent for a software‑based monitoring system enabling early detection of hardware wear and software failures.",
       tech: ["Python", "Diagnostics", "System Monitoring"],
       liveUrl: "#",
