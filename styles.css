@@ -1194,11 +1194,6 @@ body.custom-cursor .cursor {
   transition: all var(--duration-fast) var(--ease-out);
 }
 
-.contact__link {
-  display: block;
-  margin-bottom: 0.5rem;
-}
-
 .contact__social-item:hover {
   color: #fff;
   background: var(--primary);
