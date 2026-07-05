@@ -50,7 +50,7 @@ const CONFIG = {
       tech: ["ASML"],
       liveUrl: "https://www.youtube.com/watch?v=MiUHjLxm3V0&t=1319s",
       githubUrl: "#",
-      image: "",
+      image: "assets/Images/photoDUV.png",
       category: "automation"
     },
     {
