@@ -96,18 +96,16 @@ const CONFIG = {
   ],
 
   // ─── Skills ─────────────────────────────────────────────────
-  skills: [
-    { name: "Automation & Control Systems", icon: "⚙️" },
-    { name: "Robotics & Autonomy (ROS, SLAM, Motion Control)", icon: "🤖" },
-    { name: "Software Engineering (Python, C++, Git)", icon: "💻" },
-    { name: "Modeling & Simulation (MATLAB/Simulink)", icon: "📊" },
-    { name: "Linux Systems (Ubuntu, Bash, Shell Tools)", icon: "🐧" },
-    { name: "CAD & Design (NX, SolidWorks, Autodesk)", icon: "📐" },
-    { name: "Embedded & Hardware (Arduino, Sensors, DAQ)", icon: "🔌" },
-    { name: "Fabrication & Prototyping (CNC, 3D Printing)", icon: "🖨️" }
-  ],
-
-
+    skills: [
+      { name: "Automation & Control Systems", icon: "⚙️" },
+      { name: "Robotics & Autonomy (ROS, SLAM, Motion Control)", icon: "🤖" },
+      { name: "Software Engineering (Python, C++, Git)", icon: "💻" },
+      { name: "Modeling & Simulation (MATLAB/Simulink)", icon: "📊" },
+      { name: "Linux Systems (Ubuntu, Bash, Shell Tools)", icon: "🐧" },
+      { name: "CAD & Design (NX, SolidWorks, Autodesk)", icon: "📐" },
+      { name: "Embedded & Hardware (Arduino, Sensors, DAQ)", icon: "🔌" },
+      { name: "Fabrication & Prototyping (CNC, 3D Printing)", icon: "🖨️" }
+    ],
 
 
   // ─── Experience / Timeline ──────────────────────────────────
