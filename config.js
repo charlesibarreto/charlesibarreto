@@ -14,7 +14,7 @@ const CONFIG = {
   name: "Charles Barreto",
   title: "Mechatronics Architect",
   tagline: "Building high‑performance robotics, automation systems, and precision motion platforms.",
-  roles: ["Mechatronics Architect", "Robotics Specialist", "Automation Developer", "System Integrator"],
+  roles: ["a Mechatronics Architect", "a Robotics Specialist", "an Automation Developer", "a System Integrator"],
 
   about: {
     description: [
