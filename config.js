@@ -87,7 +87,7 @@ const CONFIG = {
     },
     {
       title: "Cube Craze Robot",
-      description: "Competed and won a robotics competition by building an autonomous robot for cube manipulation with mechanical design and servo control",
+      description: "Competed and won a robotics competition by building an autonomous robot for cube manipulation with mechanical design and servo control.",
       tech: [""],
       liveUrl: "https://www.linkedin.com/posts/earlier-this-week-asml-wilton-employees-share-7004172295954931712-NNMd/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOy5OkBsV2fSatr2glKyxd3cxfJhYByUl4",
       githubUrl: "",
