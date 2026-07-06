@@ -41,7 +41,7 @@ const CONFIG = {
       tech: [""],
       liveUrl: "",
       githubUrl: "",
-      image: "",
+      image: "assets/Images/photoAMR.png",
       featured: false,
       category: "automation"
     },
