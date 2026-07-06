@@ -19,7 +19,6 @@ const Publications = {
         <!-- Header -->
         <div class="pub-card__header">
           <h3 class="pub-card__title">${pub.title}</h3>
-          <span class="pub-card__type">${pub.type}</span>
         </div>
 
         <!-- Meta -->
