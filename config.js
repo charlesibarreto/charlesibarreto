@@ -20,7 +20,7 @@ const CONFIG = {
     description: [
       "Mechatronics Architect and Robotics Engineer specializing in precision motion control, autonomous robotics, and multi‑domain system integration.",
       "Experienced in developing automation software, ROS/SLAM workflows, and high‑G calibration systems for mission‑critical platforms.",
-      "Delivered multi‑million‑dollar reliability improvements across ASML lithography platforms through automation, diagnostics, and system‑level optimization."
+      "Delivered multi‑million‑dollar reliability improvements across lithography machines through automation, diagnostics, and system‑level optimization."
     ],
     resumeUrl: "",
     avatarUrl: "assets/Images/profile.jpg"
