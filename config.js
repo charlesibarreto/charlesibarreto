@@ -67,7 +67,7 @@ const CONFIG = {
     },
     {
       title: "Robotic Strong Arm",
-      description: "Engineered high‑accuracy calibration workflows for 6‑DOF robotic systems operating under extreme acceleration, ensuring repeatable precision and robust diagnostics.",
+      description: "Designed and implemented a 4‑DOF strong arm manipulator to lift heavy objects with ROS‑based localization, kinematics, and closed‑loop control",
       tech: [""],
       liveUrl: "",
       githubUrl: "",
@@ -77,7 +77,7 @@ const CONFIG = {
     },
     {
       title: "Robotic 6DOF Precision Arm",
-      description: "Designed and implemented a 6‑DOF precision manipulator and 4‑DOF robotic arm with ROS‑based localization, kinematics, and closed‑loop control.",
+      description: "Designed and implemented a 6‑DOF precision manipulator with ROS‑based localization, kinematics, and closed‑loop control.",
       tech: [""],
       liveUrl: "",
       githubUrl: "",
